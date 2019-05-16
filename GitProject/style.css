@@ -19,5 +19,5 @@ h1 {
 }
 
 h1:hover{
-    transform: rotate(180deg);
+    transform: rotate(360deg);
 }
